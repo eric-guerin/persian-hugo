@@ -7,7 +7,7 @@ VERSION:	Versoin Number
 /*------------------------------------------------------------------
 [TABLE OF CONTENTS]
 -------------------------------------------------------------------*/
-@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Condensed&display=swap");
 .article a::before {
   background-color: #18A6F2 !important; }
 
@@ -26,7 +26,7 @@ VERSION:	Versoin Number
 /*  typography */
 body {
   line-height: 1.2;
-  font-family: "Lato", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 16px;
   color: #9E9E9E; }
@@ -42,11 +42,11 @@ p, .paragraph {
   color: #9E9E9E;
   font-size: 16px;
   line-height: 1.7;
-  font-family: "Lato", sans-serif; }
+  font-family: "Roboto Condensed", sans-serif; }
 
 h1, h2, h3, h4, h5, h6 {
   color: #fff;
-  font-family: "Lato", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   font-weight: 400;
   line-height: 1.2; }
 
@@ -77,7 +77,7 @@ body.light .btn-link {
 /* Button style */
 .btn {
   font-size: 14px;
-  font-family: "Lato", sans-serif;
+  font-family: "Roboto Condensed", sans-serif;
   text-transform: capitalize;
   padding: 10px 25px;
   border-radius: 0;
